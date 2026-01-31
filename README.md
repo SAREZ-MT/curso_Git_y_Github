@@ -6,3 +6,5 @@ cambios realizados desde local para usar git push para mandar los cambios a gith
 
 
 cambios desde github
+
+Aprendiendio a usar git fetch
